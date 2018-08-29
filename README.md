@@ -1,7 +1,7 @@
 
 # Exploring heart rate variability
 
-Notebook with source used in blogpost ["Exploring Heart Rate Variability using Python"](https://blog.orikami.nl/)
+Notebook with source used in blogpost ["Exploring Heart Rate Variability using Python"](https://medium.com/@stetelepta/exploring-heart-rate-variability-using-python-483a7037c64d)
 
 ### Installation
 
